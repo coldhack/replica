@@ -1,2 +1,2 @@
 # replica
-Software para backups remotos de BD.
+.Software para backups remotos de BD.
